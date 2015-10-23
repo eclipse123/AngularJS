@@ -1,0 +1,3 @@
+# AngularJS
+angularJS例子框架
+这是我自己整理的一个angularjs的前段MVC框架结构，适合初学者
